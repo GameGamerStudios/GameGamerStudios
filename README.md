@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @GameGamerStudios
-- I am learning Java for Minecraft spigot plugin devolpment.
-- I'm making a Minecraft server called Majestic Valley.
-- Join the Majestic Valley Discord server to contact me: https://discord.gg/XEcvmcyyNk
+- I LOOOOOOOVE coding Minecraft plugins :D
+- I hope you enjoy :)
 
 <!---
 GameGamerStudios/GameGamerStudios is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
